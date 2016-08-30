@@ -1,0 +1,23 @@
+{
+  "name": "ec-node-tools",
+  "version": "0.1.0",
+  "description": "Tools to manage EC node projects",
+  "main": "index.js",
+  "bin": {
+    "ec-tools": "./index.js"
+  },
+  "author": "Nicola Peduzzi <thenikso@gmail.com> (http://nikso.net)",
+  "license": "MIT",
+  "dependencies": {
+    "JSONStream": "1.1.4",
+    "bluebird": "3.4.3",
+    "colors": "1.1.2",
+    "dockerode": "2.3.0",
+    "fs-extra": "0.30.0",
+    "gaze": "1.1.1",
+    "git-describe": "3.0.2",
+    "tar-fs": "1.13.2",
+    "webpack": "1.13.2",
+    "webpack-dev-server": "1.15.0"
+  }
+}
