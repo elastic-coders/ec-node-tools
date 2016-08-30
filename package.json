@@ -1,10 +1,10 @@
 {
   "name": "ec-node-tools",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Tools to manage EC node projects",
   "main": "index.js",
   "bin": {
-    "ec-tools": "./index.js"
+    "ec-tools": "./cli.js"
   },
   "author": "Nicola Peduzzi <thenikso@gmail.com> (http://nikso.net)",
   "license": "MIT",
