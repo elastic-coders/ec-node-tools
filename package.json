@@ -1,6 +1,6 @@
 {
   "name": "ec-node-tools",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Tools to manage EC node projects",
   "main": "index.js",
   "bin": {
